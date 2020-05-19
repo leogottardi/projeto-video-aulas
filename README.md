@@ -2,7 +2,7 @@
     <img src="https://ik.imagekit.io/gottardi/launchbase_tAnQIBkcH.svg">
 </h1>
 
-<h1>
+<h1 align="center">
 
 <img src="https://ik.imagekit.io/gottardi/2020-05-19_09-43-14_04ZjTEikN.gif">
 </h1>
